@@ -1,0 +1,15 @@
+{
+  "name": "crystal-ball",
+  "version": "1.0.0",
+  "description": "A fortune telling website using an LLM to generate predictions",
+  "scripts": {},
+  "dependencies": {
+    "openai": "^4.91.1"
+  },
+  "devDependencies": {
+    "vercel": "^41.4.1"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
